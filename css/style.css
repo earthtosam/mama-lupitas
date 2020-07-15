@@ -8691,8 +8691,8 @@ h1, h2, h3, h4, h5,
     font-weight: 600 !important; }
   .ftco-wrap-about .img {
     width: 100%;
-    min-height: 300px;
-    max-height: 500px; }
+    min-height: 500px;
+    max-height: 600px; }
   @media (min-width: 992px) {
     .ftco-wrap-about .img-1 {
       margin-top: -30px;
